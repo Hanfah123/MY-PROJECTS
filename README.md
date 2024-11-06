@@ -55,6 +55,7 @@ Step 14: I created a colorful pie chart to show our monthly and yearly revenue b
 Step 15: To visualize the yearly profit by date I created a Line Chart to easily see profit date-wise.
 
 Step 16: We created a Mobile App version and a Web App dashboard to present data to our client easily on both platforms.
+![](https://github.com/Hanfah123/MY-PROJECTS/blob/main/Screenshot%20(10).png)
 
 # NumPy Project Module 2
 Introduction
