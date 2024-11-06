@@ -103,6 +103,8 @@ Created a dataset with missing values.
 Replaced missing values with the mean to complete the dataset.
 Used NumPy to calculate key statistical metrics.
 This project highlights my ability to handle missing data, clean datasets, and extract useful insights using basic statistical functions in Python.
+![](https://github.com/Hanfah123/MY-PROJECTS/blob/main/Screenshot%20(12).png)
+![](https://github.com/Hanfah123/MY-PROJECTS/blob/main/Screenshot%20(13).png)
 
 Future Improvements
 To expand on this project, I could:
