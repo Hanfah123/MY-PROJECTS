@@ -56,6 +56,10 @@ Step 15: To visualize the yearly profit by date I created a Line Chart to easily
 
 Step 16: We created a Mobile App version and a Web App dashboard to present data to our client easily on both platforms.
 ![](https://github.com/Hanfah123/MY-PROJECTS/blob/main/Screenshot%20(10).png)
+![](https://github.com/Hanfah123/MY-PROJECTS/blob/main/Screenshot%20(11).png)
+![](https://github.com/Hanfah123/MY-PROJECTS/blob/main/Screenshot%20(7).png)
+![](https://github.com/Hanfah123/MY-PROJECTS/blob/main/Screenshot%20(8).png)
+![](https://github.com/Hanfah123/MY-PROJECTS/blob/main/Screenshot%20(9).png)
 
 # NumPy Project Module 2
 Introduction
