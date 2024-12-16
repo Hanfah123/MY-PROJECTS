@@ -115,11 +115,18 @@ Experiment with different methods to handle missing data
 
 # Basic Calculator
 
-"Basic Calculator in Python 🧮
+Basic Calculator 🧮
+This is a simple calculator program written in Python, designed to perform basic arithmetic operations. It’s a beginner-friendly project that demonstrates foundational Python programming skills.
 
-I created a basic calculator using Python that can perform fundamental arithmetic operations, including addition, subtraction, multiplication, and division. This project highlights my understanding of programming fundamentals, such as input handling, control structures, and function implementation.
+Features
+Addition, subtraction, multiplication, and division.
+User-friendly input prompts.
+Basic error handling, including:
+Division by zero prevention.
+Invalid input handling.
+How It Works
+The user selects an operation.
+Inputs two numbers.
+The calculator processes the operation and displays the result.
 
-The calculator takes user input, processes the desired operation, and provides the result efficiently. To ensure reliability, I included basic error handling for cases like division by zero and invalid inputs. This project not only demonstrates my Python skills but also lays the groundwork for building more advanced projects in the future.
-
-It was an exciting opportunity to apply logic, problem-solving, and creativity, while strengthening my understanding of Python programming concepts."
 
