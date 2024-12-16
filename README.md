@@ -113,7 +113,7 @@ Add visualizations of the cleaned data.
 Experiment with different methods to handle missing data
 
 
-#Basic Calculator
+# Basic Calculator
 
 "Basic Calculator in Python 🧮
 
