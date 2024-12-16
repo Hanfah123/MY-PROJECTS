@@ -113,3 +113,11 @@ Add visualizations of the cleaned data.
 Experiment with different methods to handle missing data
 
 
+#Basic Calculator
+"Basic Calculator in Python 🧮
+I created a basic calculator using Python that can perform fundamental arithmetic operations, including addition, subtraction, multiplication, and division. This project highlights my understanding of programming fundamentals, such as input handling, control structures, and function implementation.
+
+The calculator takes user input, processes the desired operation, and provides the result efficiently. To ensure reliability, I included basic error handling for cases like division by zero and invalid inputs. This project not only demonstrates my Python skills but also lays the groundwork for building more advanced projects in the future.
+
+It was an exciting opportunity to apply logic, problem-solving, and creativity, while strengthening my understanding of Python programming concepts."
+
